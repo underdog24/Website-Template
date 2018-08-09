@@ -1,0 +1,165 @@
+body
+{
+	background-color:#212121;
+	
+}
+
+#logo
+{
+	font-family:Verdana;
+	line-height:1px;
+	font-size:20px;
+}
+
+#slide
+{
+	height:100px;
+}
+#links:hover
+{
+	color:#e65100;
+	margin-top:3px;
+	font-style:bold;
+}
+#foot
+{
+	background-color:#424242;
+	color:@e65100;
+}
+#pic
+{
+	filter:blur(2px);
+}
+#text1
+{
+	color:#fff;
+}
+#mid
+{
+	padding-left:180px;
+	padding-top:40px;
+	padding-bottom:50px;
+}
+#serv{
+	padding-left:80px;
+	padding-right:80px;
+	padding-top:30px;
+}
+#controw
+{
+	background-color:#424242;
+	color:#fff;
+	font-size:13px;
+	margin-top:50px;
+}
+#copy
+{
+	text-align:right;
+	color:#424242;
+	
+}
+#copy2
+{
+	text-align:right;
+	color:#424242;
+	
+}
+#controw1
+{
+	margin-top:40px;
+	background-color:#424242;
+	color:#fff;
+	font-size:15px;
+
+}
+#tcolor
+{
+	font-size:19px;
+	color:red;
+	position:relative;
+}
+#mennu
+{
+	padding-top:10px;
+}
+#naam
+{
+	font-size:30px;;
+}
+#nav1
+{
+	height:90px;
+	
+	background-color:#212121;
+}
+#about
+{
+	color:#fff;
+	padding-top:8px;
+}
+#line
+{
+	width:500px;
+}
+@media (max-width: 400px) {
+  #line {
+    width:300px;
+  }
+}
+
+#copyr
+{
+	background-color:#212121;
+}
+#text2
+{
+	font-size:22px;
+}
+#footericons
+{
+	display:block;
+}
+#service
+{
+	font-size:13px;
+}
+#service1
+{
+	background-color:#424242;
+	color:#fff;
+	font-size:15px;
+	padding-top:20px;
+}
+#logopic
+{
+	width:100px;
+	height:60px;
+}
+#test1
+{
+	padding-top:50px;
+}
+#test2
+{
+	padding-top:50px;
+}
+
+#test3
+{
+	padding-top:50px;
+}
+#test4
+{
+	padding-top:50px;
+}
+
+#servicetabs
+{
+	background-color:#212121;
+	
+}
+
+
+
+
+
